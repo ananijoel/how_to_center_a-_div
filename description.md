@@ -1,1 +1,0 @@
-Le code minimal pour centrer une div horizontalement et verticalement dans son conteneur
